@@ -56,4 +56,10 @@ alert("Hello, world!")
 
 *My goal is to start a project by the end of the three months* 
 
-  - I love nature alot
+  - `I love nature alot`
+  - Visit my website (https://markchege10-ux.github.io/)
+  - Currently I have learnt about these items
+- [x] github and git
+- [x] javascript
+- [x] python
+> My motto is to keep on learning and trying even if you fail you can still get better 
