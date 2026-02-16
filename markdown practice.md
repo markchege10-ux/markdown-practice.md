@@ -7,4 +7,4 @@
   
 **I want to become a better person this semester through learning and exploring new programs**
 
-[visit my website](https://markchege10-ux.github.io/)
+visit my website (https://markchege10-ux.github.io/)
